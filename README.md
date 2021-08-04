@@ -1,5 +1,7 @@
 # FNKSafaNet
 
+网络请求安全处理,防止抓包
+
 1.AFSecurity 是证书校验 SSL Pinning
 
 
